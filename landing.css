@@ -1,0 +1,40 @@
+.landing {
+  text-align: center;
+  justify-content: center;
+  margin-top: 10%;
+}
+
+.landing button {
+  margin-top: 24px;
+}
+
+.landing p {
+  color: #3d3c3c;
+  font-size: 40px;
+  font-family: 'Ultra', serif;
+}
+
+img {
+  height: 180px;
+  border-radius: 50%;
+  margin-bottom: 20px;
+}
+
+body {
+  background-image: url(bg-image1.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  animation: slide 20s infinite;
+}
+
+@keyframes slide {
+  0% {
+    background-image: url(bg-image1.jpg);
+  }
+  33% {
+    background-image: url(bg-image2.jpg);
+  }
+  67% {
+    background-image: url(bg-image3.jpg);
+  }
+}

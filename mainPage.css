@@ -1,0 +1,92 @@
+.navbar-brand {
+  font-family: 'Lobster', cursive;
+  font-size: 30px;
+}
+
+
+.carousel-caption {
+  text-align: center;
+  color: #2b2b2a;
+  font-family: 'Lobster', cursive;
+  top: 130px;
+}
+
+.mt-5 {
+  text-decoration: underline;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  color: #105469;
+}
+
+
+.prof-sec {
+  text-decoration: underline;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+}
+
+
+.profic-header {
+  text-decoration: underline;
+  font-family: 'Lobster', cursive;
+  font-size: 30px;
+  color: #105469;
+}
+
+.prof-items {
+  display:block;
+  color:#737373;
+  font-size:18px;
+  text-align: center;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.px-3 {
+  color:#737373;
+  font-size:18px;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+#navbarNavDropdown {
+  text-decoration: underline;
+  font-family: 'Lobster', cursive;
+  font-size: 25px;
+}
+
+#navbarNavDropdown li a {
+  margin-left: 1.5rem;
+}
+
+#media-1 {
+  height: 300px;
+}
+
+.card-text {
+  color:#737373;
+  font-size:18px;
+  font-family: 'Open Sans Condensed', sans-serif;
+}
+
+.card-title {
+  color: #105469;
+}
+
+.projects-header {
+  text-decoration: underline;
+  font-family: 'Lobster', cursive;
+  text-align: center;
+  padding-top: 40px;
+  color: white;
+}
+
+.gradient {
+  background-image: linear-gradient(to right, #1c4a87, #50dfff);
+}
+
+#project-card-img {
+  height: 300px;
+}
+
+#project-card {
+  display: block;
+}
